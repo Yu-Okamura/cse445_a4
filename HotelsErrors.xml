@@ -4,6 +4,7 @@
         <Name>Armstrong</Name>
         <Phone>111-111-1111</Phone>
         <Phone>111-111-1112</Phone>
+        <Phone>111-111-1113</Phone>
             <Number>1151</Number>
             <Street>S Forest Ave</Street>
             <City>Tempe</City>
@@ -11,7 +12,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.2">
+    <Hotel>
         <Name>Bateman</Name>
         <Phone>222-222-2222</Phone>
         <Phone>222-222-2223</Phone>
@@ -36,7 +37,6 @@
     <Hotel Rating="4.4">
         <Name>Wilson</Name>
         <Phone>444-444-4444</Phone>
-        <Phone>444-444-4445</Phone>
         <Address NearestAirport="SeaTac">
           <Number>17801</Number>
           <Street>International Blvd</Street>
@@ -48,6 +48,7 @@
         <Name>ECG</Name>
         <Phone>555-555-5555</Phone>
         <Phone>555-555-5556</Phone>
+        <Phone>555-555-5557</Phone>
         <Address NearestAirport="San Francisco">
           <Number>780</Number>
           <Street>S Airport Blvd</Street>
@@ -56,10 +57,9 @@
           <Zip>94128</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.8">
+    <Hotel>
         <Name>Life Sciences</Name>
         <Phone>666-666-6666</Phone>
-        <Phone>666-666-6667</Phone>
         <Address NearestAirport="Orlando">
           <Number>1</Number>
           <Street>Jeff Fuqua Blvd</Street>
@@ -84,7 +84,6 @@
     <Hotel Rating="2.8">
         <Name>Schwada</Name>
         <Phone>888-888-8888</Phone>
-        <Phone>888-888-8889</Phone>
         <Address NearestAirport="Chicago">
           <Number>10000</Number>
           <Street>Bessie Coleman Dr</Street>
@@ -105,10 +104,9 @@
           <Zip>75261</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.4">
+    <Hotel>
         <Name>West</Name>
         <Phone>000-000-0000</Phone>
-        <Phone>000-000-0001</Phone>
         <Address NearestAirport="Miami">
           <Number>2100</Number>
           <Street>NW 42nd Ave</Street>
