@@ -16,7 +16,7 @@
         <Name>Bateman</Name>
         <Phone>222-222-2222</Phone>
         <Phone>222-222-2223</Phone>
-        <Address NearestAirport="Denver">
+        <Address NearstAirport="Denver">
           <Number>8500</Number>
           <Street>Pena Blvd</Street>
           <City>Denver</City>
@@ -26,7 +26,7 @@
     </Hotel>
     <Hotel Rating="5.0">
         <Name>Coor</Name>
-        <Address NearestAirport="JFK">
+        <Address NearstAirport="JFK">
           <Number>1</Number>
           <Street>JFK Access Rd</Street>
           <City>Jamaica</City>
@@ -37,7 +37,7 @@
     <Hotel Rating="4.4">
         <Name>Wilson</Name>
         <Phone>444-444-4444</Phone>
-        <Address NearestAirport="SeaTac">
+        <Address NearstAirport="SeaTac">
           <Number>17801</Number>
           <Street>International Blvd</Street>
           <City>Seattle</City>
@@ -49,7 +49,7 @@
         <Phone>555-555-5555</Phone>
         <Phone>555-555-5556</Phone>
         <Phone>555-555-5557</Phone>
-        <Address NearestAirport="San Francisco">
+        <Address NearstAirport="San Francisco">
           <Number>780</Number>
           <Street>S Airport Blvd</Street>
           <City>San Francisco</City>
@@ -60,7 +60,7 @@
     <Hotel>
         <Name>Life Sciences</Name>
         <Phone>666-666-6666</Phone>
-        <Address NearestAirport="Orlando">
+        <Address NearstAirport="Orlando">
           <Number>1</Number>
           <Street>Jeff Fuqua Blvd</Street>
           <City>Orlando</City>
@@ -73,7 +73,7 @@
         <Name>PSF</Name>
         <Phone>777-777-7777</Phone>
         <Phone>777-777-7778</Phone>
-        <Address NearestAirport="Los Angeles">
+        <Address NearstAirport="Los Angeles">
           <Number>1</Number>
           <Street>World Way</Street>
           <City>Los Angeles</City>
@@ -84,7 +84,7 @@
     <Hotel Rating="2.8">
         <Name>Schwada</Name>
         <Phone>888-888-8888</Phone>
-        <Address NearestAirport="Chicago">
+        <Address NearstAirport="Chicago">
           <Number>10000</Number>
           <Street>Bessie Coleman Dr</Street>
           <City>Chicago</City>
@@ -96,7 +96,7 @@
         <Name>Bulldog</Name>
         <Phone>999-999-9999</Phone>
         <Phone>999-999-9990</Phone>
-        <Address NearestAirport="Dallas">
+        <Address NearstAirport="Dallas">
           <Number>2400</Number>
           <Street>International Pkwy</Street>
           <City>DFW Airport</City>
@@ -107,7 +107,7 @@
     <Hotel>
         <Name>West</Name>
         <Phone>000-000-0000</Phone>
-        <Address NearestAirport="Miami">
+        <Address NearstAirport="Miami">
           <Number>2100</Number>
           <Street>NW 42nd Ave</Street>
           <City>Miami</City>
