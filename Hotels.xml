@@ -28,7 +28,7 @@
     <Hotel Rating="5.0">
         <Name>Coor</Name>
         <Phone>333-333-3333</Phone>
-        <Address NearsttAirport="JFK">
+        <Address NearstAirport="JFK">
           <Number>1</Number>
           <Street>JFK Access Rd</Street>
           <City>Jamaica</City>
